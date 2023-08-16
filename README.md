@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi �, I'm Tebebe Garedew</h1>
+<h1 align="center">Hi, I'm Tebebe Garedew</h1>
 <h3 align="center">Senior Data Analyst, Data Visualization Expert, Database Administrator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tebe372&label=Profile%20views&color=0e75b6&style=flat" alt="tebe372" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tebe372&theme=" alt="tebe372" /></a> </p>
 
-- � I’m looking to collaborate on **Data Analytics, Visualization, Database Administration**
-- � I’m currently learning **Power Apps, Power Automate, React, C#, ASP.NET, Azure**
+- I’m looking to collaborate on **Data Analytics, Visualization, Database Administration**
+- I’m currently learning **Power Apps, Power Automate, React, C#, ASP.NET, Azure**
 
-- � How to reach me **tebebegaredew@gmail.com**
+- How to reach me **tebebegaredew@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tebebeyesus-defaru-b201a9177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/tebe372" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
